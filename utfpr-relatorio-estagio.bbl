@@ -1,0 +1,89 @@
+\providecommand{\abntreprintinfo}[1]{%
+ \citeonline{#1}}
+\setlength{\labelsep}{0pt}\begin{thebibliography}{}
+\providecommand{\abntrefinfo}[3]{}
+\providecommand{\abntbstabout}[1]{}
+\abntbstabout{v-1.9.6 }
+
+\bibitem[Aguiar 2003]{aguiar2003framework}
+\abntrefinfo{Aguiar}{AGUIAR}{2003}
+{AGUIAR, A. M. T.~d. Framework documentation: A minimalist approach.
+2003.}
+
+\bibitem[Apache 2018]{ApacheProject2018}
+\abntrefinfo{Apache}{APACHE}{2018a}
+{APACHE. \textbf{Projects by category Big Data ?{@ONLINE}}. 2018.
+Acesso em: 20 março. 2018.
+Dispon{\'\i}vel em:
+  \url{https://projects.apache.org/projects.html?category\#big-data}.}
+
+\bibitem[Apache 2018]{Apache2018}
+\abntrefinfo{Apache}{APACHE}{2018b}
+{APACHE. \textbf{What Is Apache Hadoop ?{@ONLINE}}. 2018.
+Acesso em: 02 maio. 2018.
+Dispon{\'\i}vel em: \url{http://hadoop.apache.org/}.}
+
+\bibitem[Chen e Zhang 2014]{PHILIPCHEN2014}
+\abntrefinfo{Chen e Zhang}{CHEN; ZHANG}{2014}
+{CHEN, C.~P.; ZHANG, C.-Y. Data-intensive applications, challenges, techniques
+  and technologies: A survey on big data.
+\textbf{Information Sciences}, v.~275, n. Supplement C, p. 314 -- 347, 2014.
+ISSN 0020-0255.
+Dispon{\'\i}vel em:
+  \url{http://www.sciencedirect.com/science/article/pii/S0020025514000346}.}
+
+\bibitem[Chevreuil, Almeida e Lima 2012]{hdfs2012}
+\abntrefinfo{Chevreuil, Almeida e Lima}{CHEVREUIL; ALMEIDA; LIMA}{2012}
+{CHEVREUIL, R.~W.; ALMEIDA, M.; LIMA, E.~F. Usando o \textit{Hadoop Distributed
+  File System} (hdfs).
+MUNDO, Revista MUNDO J, p. 44--49, Julho/Agosto 2012.
+Acesso em: 23 Abril. 2018.}
+
+\bibitem[Chung e Chung 2013]{chung2013data}
+\abntrefinfo{Chung e Chung}{CHUNG; CHUNG}{2013}
+{CHUNG, P.-T.; CHUNG, S.~H. On data integration and data mining for developing
+  business intelligence. In:  IEEE. \textbf{Systems, Applications and
+  Technology Conference (LISAT), 2013 IEEE Long Island}. [S.l.], 2013.
+  p.~1--6.}
+
+\bibitem[Goldman et al. 2012]{goldman2012apache}
+\abntrefinfo{Goldman et al.}{GOLDMAN et al.}{2012}
+{GOLDMAN, A. et al. Apache hadoop: conceitos te{\'o}ricos e pr{\'a}ticos,
+  evolu{\c{c}}{\~a}o e novas possibilidades.
+\textbf{XXXI Jornadas de atualiza{\c{c}}oes em informatica}, p. 88--136, 2012.}
+
+\bibitem[Lakoju e Serrano 2016]{lakoju2016strategic}
+\abntrefinfo{Lakoju e Serrano}{LAKOJU; SERRANO}{2016}
+{LAKOJU, M.; SERRANO, A. A strategic approach for visualizing the value of big
+  data (savv-bigd) framework. In:  IEEE. \textbf{Big Data (Big Data), 2016 IEEE
+  International Conference on}. [S.l.], 2016. p. 1334--1339.}
+
+\bibitem[Marquesone 2016]{marquesone2016big}
+\abntrefinfo{Marquesone}{MARQUESONE}{2016}
+{MARQUESONE, R. \textbf{Big Data: t{\'e}cnicas e tecnologias para
+  extra{\c{c}}ao de valor dos dados}. [S.l.]: Editora Casa do C{\'o}digo,
+  2016.}
+
+\bibitem[Menezes, Freitas e Parpinelli 2016]{menezes2016mineraccao}
+\abntrefinfo{Menezes, Freitas e Parpinelli}{MENEZES; FREITAS; PARPINELLI}{2016}
+{MENEZES, S.~L.; FREITAS, R.~S.; PARPINELLI, R.~S. Minera{\c{c}}ao em grandes
+  massas de dados utilizando hadoop mapreduce e algoritmos bio-inspirados: Uma
+  revisao sistem{\'a}tica.
+\textbf{Revista de Inform{\'a}tica Te{\'o}rica e Aplicada}, v.~23, n.~1, p.
+  69--101, 2016.}
+
+\bibitem[TANENBAUM e Steen 2007]{van2007sistemas}
+\abntrefinfo{TANENBAUM e Steen}{TANENBAUM; STEEN}{2007}
+{TANENBAUM, A. V.~S.; STEEN, M. V. \textbf{SISTEMAS DISTRIBUIDOS: principios e
+  paradigmas (2a. ed.).} Pearson Educaci{\'o}n, 2007.
+ISBN 9788576051428. Dispon{\'\i}vel em:
+  \url{https://books.google.com.br/books?id=r2SGPgAACAAJ}.}
+
+\bibitem[Xhafa, Naranjo e Caball{\'e} 2015]{xhafa2015processing}
+\abntrefinfo{Xhafa, Naranjo e Caball{\'e}}{XHAFA; NARANJO; CABALL{\'E}}{2015}
+{XHAFA, F.; NARANJO, V.; CABALL{\'E}, S. Processing and analytics of big data
+  streams with yahoo! s4. In:  IEEE. \textbf{Advanced Information Networking
+  and Applications (AINA), 2015 IEEE 29th International Conference on}. [S.l.],
+  2015. p. 263--270.}
+
+\end{thebibliography}
